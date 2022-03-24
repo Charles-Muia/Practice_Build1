@@ -41,27 +41,27 @@
         </a>
         <div class="page-sec2">
         <a href="#">
-            <h3>Services</h3>
+            <h3> — Services — </h3>
             </div>
         </a>
         <div class="page-sec1">
         <a href="#">
-            <h3>Our Clients</h3>
+            <h3> — Our Clients — </h3>
             </div>
         </a>
         <div class="page-sec2">
             <a href="#">
-            <h3>Call Us</h3>
+            <h3> — Call Us — </h3>
             </div>
         </a>
         <div class="page-sec1">
         <a href="Contact.php">
-        <h3>Contact</h3>
+        <h3> — Contact — </h3>
             </div>
         </a>
         <div class="page-sec1">
         <a href="#">
-            <h3>Find Us</h3>
+            <h3> — Find Us — </h3>
             </div>
         </a>
     </section>
@@ -87,7 +87,6 @@
              <a href="#"><img src="Gallery/Tw.jpg" alt="twitter logo"></a>
              <a href="#"><img src="Gallery/Yb.jpg" alt="YouTube logo"></a>
     </div>
-
 </footer>
 </div>
 </body>

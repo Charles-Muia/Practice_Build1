@@ -33,11 +33,9 @@
             <img src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png"/>
             <img src="https://img.icons8.com/fluency/96/000000/windows-11.png"/>
         </div>
-        
         <iframe width="560" height="315" src="https://www.youtube.com/embed/B7FMTo-WkbI?start=11"
                 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
-
         <article>
              <div>
                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -54,54 +52,6 @@
                Animi dolore laudantium nisi pariatur quam.</p>
             </div>
         </article>
-
-            
-
-
-
-
-
-
-<!--        <a href="H_S.php">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Hardware & Software Sales</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
-<!--        <a href="#">-->
-<!--            <div class="offering-page">-->
-<!--                <p>Offering 1</p>-->
-<!--            </div>-->
-<!--        </a>-->
     </section>
 </main>
 <footer>

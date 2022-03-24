@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="ResWeb.css">
-    <title> </title>
+    <title> Our Offering Page </title>
 </head>
 <body>
 <header>
