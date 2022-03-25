@@ -18,7 +18,7 @@
         <ul>
             <li><a href="#">About Me</a></li>
             <li><a href="ResWeb.php">Home</a></li>
-            <li><a href="#">FAQ</a></li>
+            <li><a href="FAQ's.php">FAQ</a></li>
             <li><a href="#">Services</a></li>
         </ul>
         <a href="#" class="header-cases">Log In</a>

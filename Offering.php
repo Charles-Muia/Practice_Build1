@@ -18,7 +18,7 @@
         <ul>
             <li><a href="#">About Me</a></li>
             <li><a href="ResWeb.php">Home</a></li>
-            <li><a href="#">FAQ</a></li>
+            <li><a href="FAQ's.php">FAQ</a></li>
             <li><a href="#">Services</a></li>
         </ul>
         <a href="#" class="header-cases">Log In</a>
@@ -31,7 +31,7 @@
         <h2> Our Offering </h2>
         <a href="H_S.php">
         <div class="offering-page">
-            <p>Hardware & Software</p>
+            <p> Hardware & Software </p>
         </div>
         </a>
         <a href="#">

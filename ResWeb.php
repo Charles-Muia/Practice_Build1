@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="ResWeb.css">
-    <title> </title>
+    <title> Home Page </title>
 </head>
 <body>
 <header><hr>
@@ -17,7 +17,7 @@
             <ul>
                 <li><a href="#">About Me</a></li>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">FAQ</a></li>
+                <li><a href="FAQ's.php">FAQ</a></li>
                 <li><a href="#">Services</a></li>
             </ul>
                 <a href="#" class="header-cases">Log In</a>
@@ -36,7 +36,7 @@
     <section class="page-sec">
         <div class="page-sec1">
         <a href="Offering.php">
-            <h3> — Our Offering — </h3>
+            <h3> — Our Offering — </span></h3>
             </div>
         </a>
         <div class="page-sec2">
