@@ -56,19 +56,33 @@
 </main>
 <footer>
     <ul class="footer-1-links">
+        <li class="list-heading"> Quick Links </li>
         <li><a href="#"></a>Home</li>
         <li><a href="#"></a>Portfolio</li>
         <li><a href="#"></a>Services</li>
         <li><a href="#"></a>Contact</li>
         <li><a href="#"></a>Find Us</li>
+        <br>
     </ul>
     <ul class="footer-2-links">
-        <li> Read More </li>
+        <li class="list-heading"> Read More </li>
         <li><a href="#">Printing Solutions - <span> Available Models </span></a></li>
         <li><a href="#">Office Stationery - <span> Make Your Orders </span></a></li>
         <li><a href="#">Techware Scope Solutions - <span> YouTube Channel </span></a></li>
         <li><a href="#">Our Journey - <span> Where we started </span></a></li>
+        <br><br>
+        <!--        <p class="footer-p"> Copyright &copy; <Span id="year"></Span> All Rights Reserved </p>-->
+        <p class="footer-p"> Copyright &copy; <Span id="year"></Span> All Rights Reserved. Techware <span> Scope </span> Solutions. </p>
+        <script>
+            const year = document.getElementById("year");
+            const d = new Date();
+            year.innerHTML = d.getFullYear();
+        </script>
     </ul>
+    </div>
+
+    </div>
+
     <div class="footer-social">
         <a href="#"><img src="Gallery/fb.jpg" alt="facebook logo"></a>
         <a href="#"><img src="Gallery/Tw.jpg" alt="twitter logo"></a>
