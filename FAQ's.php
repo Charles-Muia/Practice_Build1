@@ -21,6 +21,7 @@
             <li><a href="ResWeb.php">Home</a></li>
             <li><a href="#">FAQ</a></li>
             <li><a href="#">Services</a></li>
+
         </ul>
         <a href="#" class="header-cases">Log In</a>
         <a href="#" class="header-cases">Sign Up</a>
@@ -32,26 +33,26 @@
         <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> What should I consider before purchasing a laptop or desktop <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
             <article>
-                Ensure the Operating System installed is activated and licensed by the seller.
-                Pay attention to any damages or breakages visible, that is not a good sign. A laptop should be light and easy
-                <br> to carry around in your bag. Most importantly, a Corei5 or i7 vPro with the latest Intel® Generation is ideal for personal or business purposes. These deliver leadership in performance with breakthrough efficiency.
-                <br>Ensure to inquire about
-                he weight:- Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
-                Autem beatae error explicabo incidunt laudantium,
-                libero minus numquam odio officia quisquam quo quod sint sunt
-                tempora vel veniam vero voluptatem voluptates.</article>
+                Ensure the Operating System installed is activated and licensed by the seller to
+                facilitate smooth running of the laptop or desktop.
+                Pay attention to any damages or visible breakages, <br> that is not a good sign. A laptop should be light and easy
+                to carry around in your bag. Most importantly, a Corei5 or i7 vPro with the latest Intel® Generation is ideal
+                for <br> personal or business purposes.
+                These deliver leadership in performance with breakthrough efficiency.
+                Inquire about the documentation and warranty if covered, this is key information.
+                <br></article>
         </div>
 
-        <button class="accordion">Section 2</button>
+        <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> Windows or MacOS? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
-            <p>Lorem ipsum...</p>
+            <p> Windows Operating System is a product by Microsoft while MacOS is by Apple. Each is unique and offers different user experience with Windows costing less compared to MacOS.
+                <br> </p>
         </div>
 
-        <button class="accordion">Section 3</button>
+        <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> What are the Tech trends in 2021/22? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
-            <p>hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-            hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-            hghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+            <p>Microsoft released Windows 11 in October 2021 a free update from Windows 10 redesigned for productivity, creativity and ease. You can read more about Windows 11
+                <a href="https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/">here</a>. <br>Brave, a fast, private and secure web browser for PC, Mac and mobile is gaining popularity. </a></p>
         </div>
         <button class="accordion">Section 4</button>
         <div class="panel">
