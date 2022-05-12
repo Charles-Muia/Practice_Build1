@@ -34,9 +34,10 @@
         <div class="panel">
             <article>
                 Ensure the Operating System installed is activated and licensed by the seller to
-                facilitate smooth running of the laptop or desktop.
-                Pay attention to any damages or visible breakages, <br> that is not a good sign. A laptop should be light and easy
-                to carry around in your bag. Most importantly, a Corei5 or i7 vPro with the latest Intel® Generation is ideal
+                facilitate smooth running of the laptop or desktop. Windows 11 is the latest version, Microsoft® recommends processors
+                <br> that are 8th Generation and higher.
+                Pay attention to any damages or visible breakages, that is not a good sign. A laptop should be light and easy
+                to carry around in your bag. <br> Most importantly, a Corei5 or i7 vPro with the latest Intel® Generation is ideal
                 for <br> personal or business purposes.
                 These deliver leadership in performance with breakthrough efficiency.
                 Inquire about the documentation and warranty if covered, this is key information.
@@ -89,11 +90,11 @@
 <footer>
     <ul class="footer-1-links">
         <li class="list-heading"> Quick Links </li>
-        <li><a href="#"></a>Home</li>
-        <li><a href="#"></a>Portfolio</li>
-        <li><a href="#"></a>Services</li>
-        <li><a href="#"></a>Contact</li>
-        <li><a href="#"></a>Find Us</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="Contact.php">Contact</a></li>
+        <li><a href="#">Find Us</a></li>
         <br>
     </ul>
     <ul class="footer-2-links">

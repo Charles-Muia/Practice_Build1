@@ -43,11 +43,12 @@
             <label for="">Subject: Choose Category</label>
 <!--        <input type="text" size="40px" name="" placeholder="Subject">-->
             <select name="Choose Category" required id="">
-                <option value="Feedback"> Feedback </option>
-                <option value="Inquiry"> General Inquiry </option>
-                <option value="Inquiry"> Call Back Request </option>
-                <option value="Inquiry"> Log A Complaint </option>
                 <option value="Inquiry"> Book An Appointment </option>
+                <option value="Feedback"> Feedback </option>
+                <option value="Inquiry"> Call Back Request </option>
+                <option value="Inquiry"> General Inquiry </option>
+
+                <option value="Inquiry"> Log A Complaint </option>
                 <option value="Inquiry"> Others </option>
             </select> <span> * </span> <br>
         <br>
@@ -71,11 +72,11 @@
 <footer>
     <ul class="footer-1-links">
         <li class="list-heading"> Quick Links </li>
-        <li><a href="#"></a>Home</li>
-        <li><a href="#"></a>Portfolio</li>
-        <li><a href="#"></a>Services</li>
-        <li><a href="#"></a>Contact</li>
-        <li><a href="#"></a>Find Us</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="Contact.php">Contact</a></li>
+        <li><a href="#">Find Us</a></li>
         <br>
     </ul>
     <ul class="footer-2-links">
