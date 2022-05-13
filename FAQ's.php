@@ -50,17 +50,16 @@
                 <br> </p>
         </div>
 
-        <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> What are the Tech trends in 2021/22? <i class="bi bi-question-square-fill"></i></button>
+        <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> Tech trends in 2021/22? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
             <p>Microsoft released Windows 11 in October 2021 a free update from Windows 10 redesigned for productivity, creativity and ease. You can read more about Windows 11
                 <a href="https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/">here</a>. <br>Brave, a fast, private and secure web browser for PC, Mac and mobile is gaining popularity. </a></p>
         </div>
-        <button class="accordion">Section 4</button>
+        <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> What makes a desktop or laptop slow? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
-                Autem beatae error explicabo incidunt laudantium,
-                libero minus numquam odio officia quisquam quo quod sint sunt
-                tempora vel veniam vero voluptatem voluptates.</p>
+            <p> Windows delivers periodic performance and quality definition updates via the internet, it is important to always install them.
+                <br>
+                Always ensure that maintenance is administered by ICT professionals.</p>
         </div>
         <button class="accordion">Section 5</button>
         <div class="panel">

@@ -91,10 +91,9 @@
             const d = new Date();
             year.innerHTML = d.getFullYear();
         </script>
-    </ul>
-    </div>
 
-    </div>
+    </ul>
+    </div></div>
 
     <div class="footer-social">
              <a href="#"><img src="Gallery/fb.jpg" alt="facebook logo"></a>
