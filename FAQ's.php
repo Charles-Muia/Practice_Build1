@@ -61,7 +61,7 @@
                 <br>
                 Always ensure that maintenance is administered by ICT professionals.</p>
         </div>
-        <button class="accordion">Section 5</button>
+        <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> Dell, Hp, Mac, Lenovo or Acer? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
                 Autem beatae error explicabo incidunt laudantium,
