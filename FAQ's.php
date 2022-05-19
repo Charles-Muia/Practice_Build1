@@ -63,7 +63,8 @@
         </div>
         <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> Dell, Hp, Mac, Lenovo or Acer? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+            <p>Desktop and laptop manufacturers vary mostly on design and shape of their products.
+                The most important thing is to focus on durability, performance and scale.  <br>
                 Autem beatae error explicabo incidunt laudantium,
                 libero minus numquam odio officia quisquam quo quod sint sunt
                 tempora vel veniam vero voluptatem voluptates.</p>
