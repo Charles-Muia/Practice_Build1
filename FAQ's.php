@@ -65,9 +65,7 @@
         <div class="panel">
             <p>Desktop and laptop manufacturers vary mostly on design and shape of their products.
                 The most important thing is to focus on durability, performance and scale.  <br>
-                Autem beatae error explicabo incidunt laudantium,
-                libero minus numquam odio officia quisquam quo quod sint sunt
-                tempora vel veniam vero voluptatem voluptates.</p>
+                </p>
         </div>
         <script>
             var acc = document.getElementsByClassName("accordion");
