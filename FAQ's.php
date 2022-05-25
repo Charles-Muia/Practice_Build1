@@ -14,7 +14,7 @@
 <body>
 <header>
     <hr>
-    <a href="index.php" class="header-brand"> techware  <span> scope </span> solutions</a>
+    <a href="ResWeb.php" class="header-brand"> techware  <span> scope </span> solutions</a>
     <nav>
         <ul>
             <li><a href="#">About Me</a></li>
@@ -88,7 +88,7 @@
 <footer>
     <ul class="footer-1-links">
         <li class="list-heading"> Quick Links </li>
-        <li><a href="#">Home</a></li>
+        <li><a href="ResWeb.php">Home</a></li>
         <li><a href="#">Portfolio</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="Contact.php">Contact</a></li>

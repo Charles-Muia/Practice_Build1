@@ -27,45 +27,48 @@
 </header>
 <main>
     <hr>
-    <form action="">
+    <img src="Gallery/" alt="">
 
-        <fieldset>
-        <legend> <h2> Any Comments or Questions? <br> Fill In The Form Below. </h2></legend>
-            <span> * </span>
-        <input type="text" size="40px" name="" required placeholder="First Name">
-            <span> * </span>
-        <input type="text" size="40px" name="" required placeholder="Second Name"> <br><br>
-            <span> * </span>
-        <input type="text" size="40px" name="" required placeholder="Email Address">
-            <span> * </span>
-        <input type="tel" size="40px" name="" required placeholder="Mobile Number"> <br><br>
+    <p>hdhdhdhd</p>
+<!--    <form action="">-->
+<!---->
+<!--        <fieldset>-->
+<!--            <legend> <h2> Any Comments or Questions? <br> Fill In The Form Below. </h2></legend>-->
 <!--            <span> * </span>-->
-            <label for="">Subject: Choose Category</label>
-<!--        <input type="text" size="40px" name="" placeholder="Subject">-->
-            <select name="Choose Category" required id="">
-                <option value="Inquiry"> Book An Appointment </option>
-                <option value="Feedback"> Feedback </option>
-                <option value="Inquiry"> Call Back Request </option>
-                <option value="Inquiry"> General Inquiry </option>
-
-                <option value="Inquiry"> Log A Complaint </option>
-                <option value="Inquiry"> Others </option>
-            </select> <span> * </span> <br>
-        <br>
-            <textarea rows="10" cols="80" placeholder="Type Your Comments or Questions Here"> </textarea>
-
-        <br>
-        <button type="reset">Clear</button>
-        <button type="submit">Send</button>
-<!--            <button type="submit" onclick="alert('Message Sent Successfully')" name="Click-Send">Send</button>-->
-        </fieldset>
+<!--            <input type="text" size="40px" name="" required placeholder="First Name">-->
+<!--            <span> * </span>-->
+<!--            <input type="text" size="40px" name="" required placeholder="Second Name"> <br><br>-->
+<!--            <span> * </span>-->
+<!--            <input type="text" size="40px" name="" required placeholder="Email Address">-->
+<!--            <span> * </span>-->
+<!--            <input type="tel" size="40px" name="" required placeholder="Mobile Number"> <br><br>-->
+<!--                        <span> * </span>-->
+<!--            <label for="">Subject: Choose Category</label>-->
+<!--                    <input type="text" size="40px" name="" placeholder="Subject">-->
+<!--            <select name="Choose Category" required id="">-->
+<!--                <option value="Inquiry"> Book An Appointment </option>-->
+<!--                <option value="Feedback"> Feedback </option>-->
+<!--                <option value="Inquiry"> Call Back Request </option>-->
+<!--                <option value="Inquiry"> General Inquiry </option>-->
+<!---->
+<!--                <option value="Inquiry"> Log A Complaint </option>-->
+<!--                <option value="Inquiry"> Others </option>-->
+<!--            </select> <span> * </span> <br>-->
+<!--            <br>-->
+<!--            <textarea rows="10" cols="80" placeholder="Type Your Comments or Questions Here"> </textarea>-->
+<!---->
+<!--            <br>-->
+<!--            <button type="reset">Clear</button>-->
+<!--            <button type="submit">Send</button>-->
+<!--             <button type="submit" onclick="alert('Message Sent Successfully')" name="Click-Send">Send</button>-->
+<!--        </fieldset>-->
     </form>
-<!--    <section class="page-banner">-->
-<!--        <div class="banner-align">-->
-<!--            <h2> — digital professionals — </h2>-->
-<!--            <h1> ICT Specialists in Hardware / Software, repairs, Office stationery & Printing Solutions. </h1>-->
-<!--        </div>-->
-<!--    </section>-->
+    <!--    <section class="page-banner">-->
+    <!--        <div class="banner-align">-->
+    <!--            <h2> — digital professionals — </h2>-->
+    <!--            <h1> ICT Specialists in Hardware / Software, repairs, Office stationery & Printing Solutions. </h1>-->
+    <!--        </div>-->
+    <!--    </section>-->
     <div class="wrapper">
 
 </main>
