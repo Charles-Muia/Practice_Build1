@@ -12,7 +12,7 @@
 </head>
 <body>
 <header><hr>
-    <a href="index.php" class="header-brand"> techware  <span> scope </span> solutions</a>
+    <a href="ResWeb.php" class="header-brand"> techware  <span> scope </span> solutions</a>
         <nav>
             <ul>
                 <li><a href="#">About Me</a></li>
