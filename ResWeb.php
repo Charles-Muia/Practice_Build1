@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="ResWeb.css">
+    <link rel="icon" type="image/x-icon" href="Gallery\Logo_T.jpg">
     <title> Home Page </title>
 </head>
 <body>
