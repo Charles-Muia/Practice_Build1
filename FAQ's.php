@@ -64,7 +64,7 @@
         <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> Dell, Hp, Mac, Lenovo or Acer? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
             <p>Desktop and laptop manufacturers vary mostly on design and shape of their products.
-                The most important thing is to focus on durability, performance and scale.  <br>
+                The most important thing is to focus on durability, performance and scale. The higher the processor generation, the more reliable a laptop becomes.  <br>
                 </p>
         </div>
         <script>
