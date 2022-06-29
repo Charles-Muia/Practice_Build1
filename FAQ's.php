@@ -34,11 +34,11 @@
         <div class="panel">
             <article>
                 Ensure the Operating System installed is activated and licensed by the seller to
-                facilitate smooth running of the laptop or desktop. Windows 11 is the latest version, Microsoft® recommends processors
-                <br> that are 8th Generation and higher.
-                Pay attention to any damages or visible breakages, that is not a good sign. A laptop should be light and easy
-                to carry around in your bag. <br> Most importantly, a Corei5 or i7 vPro with the latest Intel® Generation is ideal
-                for <br> personal or business purposes.
+                facilitate smooth running of the laptop or desktop. Windows 11 is the latest version presently, <br> Microsoft® recommends processors
+                that are 8th Generation and higher.
+                Pay attention to any damages or visible breakages, that is not a good sign. <br> A laptop should be light and easy
+                to carry around in your bag. Most importantly, a Corei5 or i7 vPro with the latest Intel® Generation is ideal
+                for personal or business purposes. <br>
                 These deliver leadership in performance with breakthrough efficiency.
                 Inquire about the documentation and warranty if covered, this is key information.
                 <br></article>
@@ -64,7 +64,7 @@
         <button class="accordion"> <i class="bi bi-arrow-right-square-fill"></i></i> Dell, Hp, Mac, Lenovo or Acer? <i class="bi bi-question-square-fill"></i></button>
         <div class="panel">
             <p>Desktop and laptop manufacturers vary mostly on design and shape of their products.
-                The most important thing is to focus on durability, performance and scale. The higher the processor generation, the more reliable a laptop becomes.  <br>
+                The most important thing is to focus on durability, performance and scale. <br> The higher the processor generation, the more reliable a laptop becomes.  <br>
                 </p>
         </div>
         <script>
